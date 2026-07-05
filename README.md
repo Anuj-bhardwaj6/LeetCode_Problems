@@ -2,27 +2,43 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/3620-network-recovery-pathways/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/3620-network-recovery-pathways/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
