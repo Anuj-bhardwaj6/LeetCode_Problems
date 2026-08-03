@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
