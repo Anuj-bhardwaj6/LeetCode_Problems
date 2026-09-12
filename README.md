@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0217-contains-duplicate/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0217-contains-duplicate/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
