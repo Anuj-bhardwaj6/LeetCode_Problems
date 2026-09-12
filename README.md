@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
