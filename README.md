@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0788-rotated-digits](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Math
+|  |
+| ------- |
+| [0788-rotated-digits](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/0788-rotated-digits) |
 <!---LeetCode Topics End-->
