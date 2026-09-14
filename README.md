@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0788-rotated-digits](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Anuj-bhardwaj6/LeetCode_Problems/tree/main/3620-network-recovery-pathways/) | Hard |
